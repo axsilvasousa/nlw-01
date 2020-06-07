@@ -1,0 +1,10 @@
+node_modules
+src/**/*.js
+src/**/*.map
+coverage
+uploads/*
+!uploads/.gitkeep
+!uploads/.gitkeep
+!/uploads/*.svg
+
+*.sqlite
